@@ -10,12 +10,7 @@ and Agrocast’s machine learning algorithm will display valuable data for the f
 ◦ Worked with advanced JavaScript and PHP libraries such as TURF, jQuery, Axios, and cURL
 
 
-![This is an image](https://drive.google.com/file/d/1gzwicrGc8ZFunLjK-Tfo17FfRzTwl6O4/view?usp=sharing)
+![Login/SignUp Page](https://user-images.githubusercontent.com/99022546/188413356-21d41d37-1168-4d14-ad94-99654800896a.png)
+![Main Page](https://user-images.githubusercontent.com/99022546/188413422-9122678d-e1fd-412d-8495-de30240013ab.png)
+![](https://user-images.githubusercontent.com/99022546/188413510-19b69cbe-5599-4346-9828-14db92740e55.png)
 
-
-
-![This is an image](https://drive.google.com/file/d/1nhulv9jReaBwgumipMPxdwAQhql1W7CN/view?usp=sharing)
-
-
-
-![This is an image](https://drive.google.com/file/d/1hwApeiSHOLibG-R1DjyDOgFwh0B79TyJ/view?usp=sharing)
