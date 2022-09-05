@@ -11,6 +11,10 @@ and Agrocast’s machine learning algorithm will display valuable data for the f
 
 
 ![Login/SignUp Page](https://user-images.githubusercontent.com/99022546/188413356-21d41d37-1168-4d14-ad94-99654800896a.png)
+
+
 ![Main Page](https://user-images.githubusercontent.com/99022546/188413422-9122678d-e1fd-412d-8495-de30240013ab.png)
+
+
 ![](https://user-images.githubusercontent.com/99022546/188413510-19b69cbe-5599-4346-9828-14db92740e55.png)
 
