@@ -14,7 +14,7 @@ and Agrocast’s machine learning algorithm will display valuable data for the f
 **Know more: https://github.com/Shreyansh-Chourasiya/AgroCast-Analytics/blob/main/Demo_video.mp4**
 
 
-[Agrocast](https://user-images.githubusercontent.com/99022546/190893910-9d02cb2a-57b1-44ae-b9b0-90f929e7f4a2.jpg)
+![Agrocast](https://user-images.githubusercontent.com/99022546/190893910-9d02cb2a-57b1-44ae-b9b0-90f929e7f4a2.jpg)
 
 
 
